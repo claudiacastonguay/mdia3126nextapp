@@ -1,0 +1,100 @@
+.title{
+    font-family: TT Commons;
+    font-style: DemiBold;
+    font-size: 25px;
+    vertical-align: Top;
+    color: #4676E5;
+    }
+    .description{
+        font-size: 18px;
+    }
+    .box{
+        width: 1195px;
+        height: 278px;
+        background-color: white;
+        box-shadow: 2px 4px 20px rgba(99, 99, 99, 0.288);
+        border-radius: 10px;
+        margin-top: 50px;
+        padding-left: 20px;
+    }
+    .bluesquare{
+        width: 20px;
+        height: 20px;
+        background-color: #729CF0;
+        border-radius: 5px;
+        margin-right: 10px;
+        margin-left: 15px;
+    }
+    .region{
+        display: flex;
+        align-items: center;
+    }
+    .national{
+        display: flex;
+        align-items: center;
+        margin-left: 50px;
+    }
+    .greensquare{
+        width: 20px;
+        height: 20px;
+        background-color: #CEE861;
+        border-radius: 5px;
+        margin-right: 10px;
+        margin-left: 15px;
+    }
+    .index{
+        display: flex;
+    }
+    .bluerect{
+        background-color: #729CF0;
+        width: 34px;
+        height: 810px;
+        transform: rotate(-90deg);
+        margin-left: 400px;
+        margin-top: -350px;
+    }
+    .greenrect{
+        background-color: #CEE861;
+        width: 34px;
+        height: 864px;
+        transform: rotate(-90deg);
+        margin-left: 426px;
+        margin-top: -780px;
+    }
+    .chat{
+        width: 77.68px;
+        height: 43px;
+        position: absolute;
+        left: 0;
+        margin-left: -10%;
+    }
+    .money{
+        position: relative;
+        color: white;
+        font-weight: bold;
+    }
+    .chatcontainer{
+        position: absolute;
+       left: 45%;
+    }
+    .line{
+        height: 1px;
+        width: 1104px;
+        background-color: #828282;
+        margin-top: -380px;
+        margin-left: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .flexline{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 30px;
+        margin-right: 37px;
+    }
+    .mark{
+        height: 11.5px;
+        width: 1px;
+        background-color: #828282;
+    }
